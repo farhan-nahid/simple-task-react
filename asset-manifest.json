@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farhan-nahid/simple-task/static/css/main.6818feb1.chunk.css",
+    "main.js": "/farhan-nahid/simple-task/static/js/main.0eafc13f.chunk.js",
+    "main.js.map": "/farhan-nahid/simple-task/static/js/main.0eafc13f.chunk.js.map",
+    "runtime-main.js": "/farhan-nahid/simple-task/static/js/runtime-main.37a7a349.js",
+    "runtime-main.js.map": "/farhan-nahid/simple-task/static/js/runtime-main.37a7a349.js.map",
+    "static/js/2.c252413d.chunk.js": "/farhan-nahid/simple-task/static/js/2.c252413d.chunk.js",
+    "static/js/2.c252413d.chunk.js.map": "/farhan-nahid/simple-task/static/js/2.c252413d.chunk.js.map",
+    "static/js/3.dbcc81a7.chunk.js": "/farhan-nahid/simple-task/static/js/3.dbcc81a7.chunk.js",
+    "static/js/3.dbcc81a7.chunk.js.map": "/farhan-nahid/simple-task/static/js/3.dbcc81a7.chunk.js.map",
+    "index.html": "/farhan-nahid/simple-task/index.html",
+    "static/css/main.6818feb1.chunk.css.map": "/farhan-nahid/simple-task/static/css/main.6818feb1.chunk.css.map",
+    "static/js/2.c252413d.chunk.js.LICENSE.txt": "/farhan-nahid/simple-task/static/js/2.c252413d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37a7a349.js",
+    "static/js/2.c252413d.chunk.js",
+    "static/css/main.6818feb1.chunk.css",
+    "static/js/main.0eafc13f.chunk.js"
+  ]
+}
